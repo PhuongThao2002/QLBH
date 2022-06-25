@@ -1,0 +1,15 @@
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.csproj.AssemblyReference.cache
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.Form1.resources
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.Properties.Resources.resources
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.csproj.GenerateResource.cache
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.csproj.CoreCompileInputs.cache
+E:\LTUD\VDu\lopPTUD2022_Sang\bin\Debug\lopPTUD2022_Sang.exe.config
+E:\LTUD\VDu\lopPTUD2022_Sang\bin\Debug\lopPTUD2022_Sang.exe
+E:\LTUD\VDu\lopPTUD2022_Sang\bin\Debug\lopPTUD2022_Sang.pdb
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.exe
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.pdb
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.Form2.resources
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.Calculator.resources
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.frmMain.resources
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.Tinchi.resources
+E:\LTUD\VDu\lopPTUD2022_Sang\obj\Debug\lopPTUD2022_Sang.frmDMHH.resources
